@@ -1,0 +1,5 @@
+<Root>
+  <Enemy id ="1000" speed="3" maxSpeed="10" acc="1" def="20" maxHp="400" gold="40" name="FireDragonSmall" prefab_path="Prefab/Enemy/FireDragonSmall"></Enemy>
+  <Enemy id ="1001" speed="3" maxSpeed="11" acc="1" def="20" maxHp="600" gold="60" name="FireDragonMid" prefab_path="Prefab/Enemy/FireDragonMid"></Enemy>
+  <Enemy id ="1002" speed="2" maxSpeed="12" acc="1" def="20" maxHp="1000" gold="100" name="FireDragonBig" prefab_path="Prefab/Enemy/FireDragonBig"></Enemy>
+</Root>

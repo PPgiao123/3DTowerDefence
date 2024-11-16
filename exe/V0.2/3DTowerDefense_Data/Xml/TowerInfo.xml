@@ -1,0 +1,37 @@
+<Root>
+  <Tower id ="2000" atk="20" gold="80" lvl="1" range="20" fire_speed="1" bullet_speed="40" max_lvl="4" name="Archer1" prefab_path="Prefab/Tower/Archer/TB_ArcherTower_Lvl1"></Tower>
+  <Tower id ="2001" atk="25" gold="120" lvl="2" range="24" fire_speed="0.9" bullet_speed="40" max_lvl="4" name="Archer2" prefab_path="Prefab/Tower/Archer/TB_ArcherTower_Lvl2"></Tower>
+  <Tower id ="2002" atk="30" gold="160" lvl="3" range="27" fire_speed="0.8" bullet_speed="40" max_lvl="4" name="Archer3" prefab_path="Prefab/Tower/Archer/TB_ArcherTower_Lvl3"></Tower>
+  <Tower id ="2003" atk="50" gold="200" lvl="4" range="33" fire_speed="0.7" bullet_speed="40" max_lvl="4" name="Archer4A" prefab_path="Prefab/Tower/Archer/TB_ArcherTower_Lvl4_A"></Tower>
+  <Tower id ="2004" atk="40" gold="200" lvl="4" range="33" fire_speed="0.5" bullet_speed="50" max_lvl="4" name="Archer4B" prefab_path="Prefab/Tower/Archer/TB_ArcherTower_Lvl4_B"></Tower>
+
+  <Tower id ="12010" atk="20" gold="80" lvl="1" range="20" fire_speed="1" bullet_speed="40" max_lvl="4" name="Archer1Cons" prefab_path="Prefab/Tower/Archer/Cons/TB_ArcherTower_Lvl1_Cons"></Tower>
+  <Tower id ="12011" atk="25" gold="120" lvl="2" range="24" fire_speed="0.9" bullet_speed="40" max_lvl="4" name="Archer2Cons" prefab_path="Prefab/Tower/Archer/Cons/TB_ArcherTower_Lvl2_Cons"></Tower>
+  <Tower id ="12012" atk="30" gold="160" lvl="3" range="27" fire_speed="0.8" bullet_speed="40" max_lvl="4" name="Archer3Cons" prefab_path="Prefab/Tower/Archer/Cons/TB_ArcherTower_Lvl3_Cons"></Tower>
+  <Tower id ="12013" atk="50" gold="200" lvl="4" range="33" fire_speed="0.7" bullet_speed="40" max_lvl="4" name="Archer4ACons" prefab_path="Prefab/Tower/Archer/Cons/TB_ArcherTower_Lvl4_A_Cons"></Tower>
+  <Tower id ="12014" atk="40" gold="200" lvl="4" range="33" fire_speed="0.5" bullet_speed="50" max_lvl="4" name="Archer4BCons" prefab_path="Prefab/Tower/Archer/Cons/TB_ArcherTower_Lvl4_B_Cons"></Tower>
+
+  <Tower id ="2100" atk="40" gold="120" lvl="1" range="20" fire_speed="1.5" bullet_speed="30" max_lvl="4" name="Cannon1" prefab_path="Prefab/Tower/Cannon/TB_CanonTower_Lvl1"></Tower>
+  <Tower id ="2101" atk="55" gold="160" lvl="2" range="26" fire_speed="1.4" bullet_speed="30" max_lvl="4" name="Cannon2" prefab_path="Prefab/Tower/Cannon/TB_CanonTower_Lvl2"></Tower>
+  <Tower id ="2102" atk="60" gold="200" lvl="3" range="33" fire_speed="1.3" bullet_speed="30" max_lvl="4" name="Cannon3" prefab_path="Prefab/Tower/Cannon/TB_CanonTower_Lvl3"></Tower>
+  <Tower id ="2103" atk="100" gold="240" lvl="4" range="42" fire_speed="1.2" bullet_speed="30" max_lvl="4" name="Cannon4A" prefab_path="Prefab/Tower/Cannon/TB_CanonTower_Lvl4_A"></Tower>
+  <Tower id ="2104" atk="90" gold="240" lvl="4" range="42" fire_speed="1.0" bullet_speed="40" max_lvl="4" name="Cannon4B" prefab_path="Prefab/Tower/Cannon/TB_CanonTower_Lvl4_B"></Tower>
+
+  <Tower id ="12110" atk="40" gold="120" lvl="1" range="20" fire_speed="1.5" bullet_speed="30" max_lvl="4" name="Cannon1Cons" prefab_path="Prefab/Tower/Cannon/Cons/TB_CanonTower_Lvl1_Cons"></Tower>
+  <Tower id ="12111" atk="55" gold="160" lvl="2" range="26" fire_speed="1.4" bullet_speed="30" max_lvl="4" name="Cannon2Cons" prefab_path="Prefab/Tower/Cannon/Cons/TB_CanonTower_Lvl2_Cons"></Tower>
+  <Tower id ="12112" atk="60" gold="200" lvl="3" range="33" fire_speed="1.3" bullet_speed="30" max_lvl="4" name="Cannon3Cons" prefab_path="Prefab/Tower/Cannon/Cons/TB_CanonTower_Lvl3_Cons"></Tower>
+  <Tower id ="12113" atk="100" gold="240" lvl="4" range="42" fire_speed="1.2" bullet_speed="30" max_lvl="4" name="Cannon4ACons" prefab_path="Prefab/Tower/Cannon/Cons/TB_CanonTower_Lvl4_A_Cons"></Tower>
+  <Tower id ="12114" atk="90" gold="240" lvl="4" range="42" fire_speed="1.0" bullet_speed="40" max_lvl="4" name="Cannon4BCons" prefab_path="Prefab/Tower/Cannon/Cons/TB_CanonTower_Lvl4_B_Cons"></Tower>
+
+  <Tower id ="2200" atk="30" gold="100" lvl="1" range="20" fire_speed="0.7" bullet_speed="40" max_lvl="4" name="Magic1" prefab_path="Prefab/Tower/Magic/TB_MagicTower_Lvl1"></Tower>
+  <Tower id ="2201" atk="40" gold="140" lvl="2" range="24" fire_speed="0.6" bullet_speed="40" max_lvl="4" name="Magic2" prefab_path="Prefab/Tower/Magic/TB_MagicTower_Lvl2"></Tower>
+  <Tower id ="2202" atk="50" gold="180" lvl="3" range="30" fire_speed="0.5" bullet_speed="40" max_lvl="4" name="Magic3" prefab_path="Prefab/Tower/Magic/TB_MagicTower_Lvl3"></Tower>
+  <Tower id ="2203" atk="80" gold="220" lvl="4" range="36" fire_speed="0.3" bullet_speed="40" max_lvl="4" name="Magic4A" prefab_path="Prefab/Tower/Magic/TB_MagicTower_Lvl4_A"></Tower>
+  <Tower id ="2204" atk="70" gold="220" lvl="4" range="36" fire_speed="0.2" bullet_speed="50" max_lvl="4" name="Magic4B" prefab_path="Prefab/Tower/Magic/TB_MagicTower_Lvl4_B"></Tower>
+
+  <Tower id ="12210" atk="30" gold="100" lvl="1" range="20" fire_speed="0.7" bullet_speed="40" max_lvl="4" name="Magic1Cons" prefab_path="Prefab/Tower/Magic/Cons/TB_MagicTower_Lvl1_Cons"></Tower>
+  <Tower id ="12211" atk="40" gold="140" lvl="2" range="24" fire_speed="0.6" bullet_speed="40" max_lvl="4" name="Magic2Cons" prefab_path="Prefab/Tower/Magic/Cons/TB_MagicTower_Lvl2_Cons"></Tower>
+  <Tower id ="12212" atk="50" gold="180" lvl="3" range="30" fire_speed="0.5" bullet_speed="40" max_lvl="4" name="Magic3Cons" prefab_path="Prefab/Tower/Magic/Cons/TB_MagicTower_Lvl3_Cons"></Tower>
+  <Tower id ="12213" atk="80" gold="220" lvl="4" range="36" fire_speed="0.3" bullet_speed="40" max_lvl="4" name="Magic4ACons" prefab_path="Prefab/Tower/Magic/Cons/TB_MagicTower_Lvl4_A_Cons"></Tower>
+  <Tower id ="12214" atk="70" gold="220" lvl="4" range="36" fire_speed="0.2" bullet_speed="50" max_lvl="4" name="Magic4BCons" prefab_path="Prefab/Tower/Magic/Cons/TB_MagicTower_Lvl4_B_Cons"></Tower>
+</Root>
